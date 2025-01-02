@@ -47,7 +47,7 @@ Car make, model, and body type
 This project demonstrates the full data analysis workflow, from data gathering and manipulation using pandas to creating impactful visualizations with Tableau. It provides valuable insights into car sales trends, regional performance, and customer demographics.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Prockentine/car-sales-report-eda/blob/main/LICENSE.txt) file for details.
 
 ##Appendix
 
